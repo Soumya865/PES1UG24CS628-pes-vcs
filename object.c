@@ -1,5 +1,6 @@
 //Phase 1 completed
 // phase 1 edit 2
+//Phase 1 edit 3
 // object.c — Content-addressable object store
 //
 // Every piece of data (file contents, directory listings, commits) is stored
