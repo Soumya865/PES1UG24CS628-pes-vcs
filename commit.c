@@ -1,6 +1,7 @@
 // commit.c — Commit creation and history traversal
 //Phase 4 edit 1
 //Phase 4 edit 2
+//Phase 4 edit 3
 // Commit object format (stored as text, one field per line):
 //
 //   tree <64-char-hex-hash>
