@@ -2,7 +2,7 @@
 // phase 1 edit 2
 //Phase 1 edit 3
 //Phase 1 edit 4
-//// Phase 1: final improvement for object storage
+// Phase 1: final improvement for object storage
 // object.c — Content-addressable object store
 //
 // Every piece of data (file contents, directory listings, commits) is stored
